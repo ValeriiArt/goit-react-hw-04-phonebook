@@ -1,0 +1,14 @@
+.form{
+    width: 300px;
+    border: 1px solid;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: center;
+}
+.formLabel{
+    display: block;
+}
+.formInput{
+    display: block;
+    margin-bottom: 20px;
+}
